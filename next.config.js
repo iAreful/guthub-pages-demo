@@ -12,4 +12,6 @@ module.exports = {
 	images: {
 		unoptimized: true,
 	},
+	basePath: "/guthub-pages-demo",
+	assetPrefix: "/guthub-pages-demo",
 };
