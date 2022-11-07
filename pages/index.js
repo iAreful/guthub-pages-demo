@@ -16,10 +16,7 @@ export default function Home() {
 					Welcome to <a href='https://nextjs.org'>test demo pages</a>
 				</h1>
 
-				<p className={styles.description}>
-					Get started by editing{" "}
-					<code className={styles.code}>pages/index.js</code>
-				</p>
+				<p className={styles.description}>lorem ipsum</p>
 
 				<div className={styles.grid}>
 					<a href='https://nextjs.org/docs' className={styles.card}>
